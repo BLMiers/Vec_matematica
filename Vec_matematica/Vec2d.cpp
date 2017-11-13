@@ -1,7 +1,7 @@
 #include "Vec2d.h"
 
 
-//teste Github
+
 Vec2d::Vec2d()
 {
 	x = 0;
